@@ -12,3 +12,4 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />
