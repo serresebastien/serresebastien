@@ -3,6 +3,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/langfr-440px-PyCharm_Icon.svg.png" />
 <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" />
+<img align="left" alt="RaspberryPi" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" />
