@@ -10,6 +10,7 @@
 <img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="graphql" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
