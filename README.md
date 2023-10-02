@@ -51,6 +51,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Cloud Quest Machine Learning" width="80px" src="images/aws-cloud-quest-machine-learning.png" />](https://www.credly.com/badges/1b39641c-4bee-46f5-8ba8-2ccf82477c5c/public_url)
 [<img alt="AWS Cloud Quest Data Analytics" width="80px" src="images/aws-cloud-quest-data-analytics.png" />](https://www.credly.com/badges/25f48fa0-c9f6-453a-86fe-7e9ab3dd4468/public_url)
 [<img alt="AWS Cloud Quest Security" width="80px" src="images/aws-cloud-quest-security.png" />](https://www.credly.com/badges/eb3e456f-7122-4a2f-838e-c46695852556/public_url)
+[<img alt="AWS Cloud Quest Networking" width="80px" src="images/aws-cloud-quest-networking.png" />](https://www.credly.com/badges/ffe4fc1b-8892-4c3a-9a13-b092ec58a61c/public_url)
 
 <!-- ### 🚀 HashiCorp Terraform -->
 
