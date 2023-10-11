@@ -53,7 +53,9 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Cloud Quest Security" width="80px" src="images/aws-cloud-quest-security.png" />](https://www.credly.com/badges/eb3e456f-7122-4a2f-838e-c46695852556/public_url)
 [<img alt="AWS Cloud Quest Networking" width="80px" src="images/aws-cloud-quest-networking.png" />](https://www.credly.com/badges/ffe4fc1b-8892-4c3a-9a13-b092ec58a61c/public_url)
 
-<!-- ### 🚀 HashiCorp Terraform -->
+### 🚀 HashiCorp Terraform
+
+[<img alt="Terraform Certified Associate" width="80px" src="images/terraform-associate.png" />](https://www.credly.com/badges/1e995bd3-ed37-481e-8259-940efb249f9d/public_url)
 
 ### ⚡ Scaled Agile (SAFe)
 
