@@ -54,6 +54,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Cloud Quest Networking" width="80px" src="images/aws-cloud-quest-networking.png" />](https://www.credly.com/badges/ffe4fc1b-8892-4c3a-9a13-b092ec58a61c/public_url)
 
 [<img alt="AWS Knowledge Cloud Essentials" width="80px" src="images/aws-knowledge-cloud-essentials.png" />](https://www.credly.com/badges/0c218b4b-fc33-43f8-9131-b4cd19b480b9/public_url)
+[<img alt="AWS Knowledge Architecting" width="80px" src="images/aws-knowledge-architecting.png" />](https://www.credly.com/badges/519fe72d-1a5e-4d39-b174-590ba673beb3/public_url)
 
 ### 🚀 HashiCorp Terraform
 
