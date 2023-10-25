@@ -15,7 +15,7 @@ I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Profes
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
@@ -33,11 +33,11 @@ I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Profes
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)](https://www.apple.com/macos/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)](https://www.apple.com/macos/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 ---
 
-## 📜 Certification flex
+## 🏆 Certifications & Badges
 
 I'm always thrilled to learn new technologies, here are some certifications / skill badges that I've earned!
 
@@ -59,7 +59,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Knowledge Cloud Essentials" width="80px" src="images/aws-knowledge-cloud-essentials.png" />](https://www.credly.com/badges/0c218b4b-fc33-43f8-9131-b4cd19b480b9/public_url)
 [<img alt="AWS Knowledge Architecting" width="80px" src="images/aws-knowledge-architecting.png" />](https://www.credly.com/badges/519fe72d-1a5e-4d39-b174-590ba673beb3/public_url)
 
-### 🚀 HashiCorp Terraform
+### 🚀 HashiCorp (Terraform)
 
 [<img alt="Terraform Certified Associate" width="80px" src="images/terraform-associate.png" />](https://www.credly.com/badges/1e995bd3-ed37-481e-8259-940efb249f9d/public_url)
 
