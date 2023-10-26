@@ -59,6 +59,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Knowledge Cloud Essentials" width="80px" src="images/aws-knowledge-cloud-essentials.png" />](https://www.credly.com/badges/0c218b4b-fc33-43f8-9131-b4cd19b480b9/public_url)
 [<img alt="AWS Knowledge Architecting" width="80px" src="images/aws-knowledge-architecting.png" />](https://www.credly.com/badges/519fe72d-1a5e-4d39-b174-590ba673beb3/public_url)
 [<img alt="AWS Knowledge Serverless" width="80px" src="images/aws-knowledge-serverless.png" />](https://www.credly.com/badges/c494e93c-7e7d-4beb-b046-c3230db6079c/public_url)
+[<img alt="AWS Knowledge Media & Entertainment Direct-to-Consumer and Broadcast Foundations" width="80px" src="images/aws-knowledge-media-entertainment.png" />](https://www.credly.com/badges/e304c5af-1c3d-415c-acbd-38aadb216c08/public_url)
 [<img alt="AWS Knowledge File Storage" width="80px" src="images/aws-knowledge-file-storage.png" />](https://www.credly.com/badges/285d64c4-9620-4d5e-a9be-0b566be13319/public_url)
 
 ### 🚀 HashiCorp (Terraform)
