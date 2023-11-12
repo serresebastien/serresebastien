@@ -34,6 +34,7 @@ I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Profes
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=apple)](https://www.apple.com/macos/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian)](https://obsidian.md/)
 
 ---
 
