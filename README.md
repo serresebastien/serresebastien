@@ -68,6 +68,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Knowledge Block Storage" width="80px" src="images/aws-knowledge-block-storage.png" />](https://www.credly.com/badges/de1bc66d-ac44-45cf-a4a8-bcd8459f02c8/public_url)
 [<img alt="AWS Knowledge Storage Data Protection & Disaster Recovery Storage" width="80px" src="images/aws-knowledge-data-protection-disaster-recovery.png" />](https://www.credly.com/badges/accf7da8-f1b0-4a2f-b4a8-29e924281110/public_url)
 
+[<img alt="AWS Partner Generative AI Essentials" width="80px" src="images/aws-partner-generative-ai-essentials.png" />](https://www.credly.com/badges/48310cf9-2af3-412a-acf7-9aa66e5293d7/public_url)
 
 ### 🚀 HashiCorp (Terraform)
 
