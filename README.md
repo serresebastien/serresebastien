@@ -42,6 +42,10 @@ I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Profes
 
 I'm always thrilled to learn new technologies, here are some certifications / skill badges that I've earned!
 
+### :octocat: Github
+
+[<img alt="GitHub Actions" width="80px" src="images/github-actions.png" />](https://www.credly.com/badges/a3161fe0-926c-4d4c-9bef-1e1eddc39c59/public_url)
+
 ### ☁️ Amazon Web Services (AWS)
 
 [<img alt="AWS Certified Cloud Practitioner" width="80px" src="images/aws-certified-cloud-practitioner.png" />](https://www.credly.com/badges/1903123a-bc97-488d-be02-4b9ba8675199/public_url)
