@@ -5,7 +5,7 @@ Hey, my name is Sébastien! I'm an IT freak who love create and share cool stuff
 📫 How to reach me:
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/serresebastien/)
-[![Work Email](https://img.shields.io/badge/Work-e--Mail-blue?logo=amazonaws)](mailto://sserre@amazon.com)
+[![Work Email](https://img.shields.io/badge/Work-e--Mail-blue?logo=amazonwebservices)](mailto://sserre@amazon.com)
 
 ---
 
@@ -24,7 +24,7 @@ I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Profes
 [![GraphQl](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Github Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/features/actions)
