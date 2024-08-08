@@ -60,6 +60,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 [<img alt="AWS Cloud Quest Data Analytics" width="80px" src="images/aws-cloud-quest-data-analytics.png" />](https://www.credly.com/badges/25f48fa0-c9f6-453a-86fe-7e9ab3dd4468/public_url)
 [<img alt="AWS Cloud Quest Security" width="80px" src="images/aws-cloud-quest-security.png" />](https://www.credly.com/badges/eb3e456f-7122-4a2f-838e-c46695852556/public_url)
 [<img alt="AWS Cloud Quest Networking" width="80px" src="images/aws-cloud-quest-networking.png" />](https://www.credly.com/badges/ffe4fc1b-8892-4c3a-9a13-b092ec58a61c/public_url)
+[<img alt="AWS Cloud Quest Generative AI" width="80px" src="images/aws-cloud-quest-gen-ai.png" />](https://www.credly.com/badges/bed99506-c7a2-4a95-b0fb-3a49ce2c2e71/public_url)
 
 [<img alt="AWS Knowledge Cloud Essentials" width="80px" src="images/aws-knowledge-cloud-essentials.png" />](https://www.credly.com/badges/0c218b4b-fc33-43f8-9131-b4cd19b480b9/public_url)
 [<img alt="AWS Knowledge Architecting" width="80px" src="images/aws-knowledge-architecting.png" />](https://www.credly.com/badges/519fe72d-1a5e-4d39-b174-590ba673beb3/public_url)
