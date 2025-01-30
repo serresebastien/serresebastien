@@ -11,7 +11,7 @@ Hey, my name is Sébastien! I'm an IT freak who love create and share cool stuff
 
 ## 💼 Work stuff
 
-I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Professional Services](https://aws.amazon.com/professional-services/) Global Competency Center in Warsaw! 🇵🇱
+I'm a Cloud Architect/DevOps Consultant at [AWS](https://aws.amazon.com) [Generative AI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/) based in Warsaw! 🇵🇱
 
 ---
 
