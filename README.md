@@ -49,6 +49,7 @@ I'm always thrilled to learn new technologies, here are some certifications / sk
 ### ☁️ Amazon Web Services (AWS)
 
 [<img alt="AWS Certified Cloud Practitioner" width="80px" src="images/aws-certified-cloud-practitioner.png" />](https://www.credly.com/badges/1903123a-bc97-488d-be02-4b9ba8675199/public_url)
+[<img alt="AWS Certified AI Practitioner" width="80px" src="images/aws-certified-ia-practitioner.png" />](https://www.credly.com/badges/40c171f2-7bfb-46ea-b9cb-c8e31a50bc76/public_url)
 [<img alt="AWS Certified Developer Associate" width="80px" src="images/aws-certified-developer-associate.png" />](https://www.credly.com/badges/351e251d-50a0-46f7-9af0-f02cc598e37d/public_url)
 [<img alt="AWS Certified SysOps Administrator Associate" width="80px" src="images/aws-certified-sysops-administrator-associate.png" />](https://www.credly.com/badges/a386a7d3-3a0f-4a73-b885-c05fffa60613/public_url)
 [<img alt="AWS Certified Security Specialty" width="80px" src="images/aws-certified-security-specialty.png" />](https://www.credly.com/badges/df832a61-e103-4b79-bd99-3c24c961ba02/public_url)
